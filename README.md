@@ -10,6 +10,15 @@ The models used for classification have been trained using [PadChest Datataset](
 
 Bustos, A., Pertusa, A., Salinas, J. M., & De La Iglesia-Vaya, M. (2020). Padchest: A large chest x-ray image dataset with multi-label annotated reports. Medical image analysis, 66, 101797.
 
+## Prerequisites
+- Anaconda
+- PyTorch
+    - version 2.0.1 or above
+- Scikit-learn
+    - version 1.3.0 or above
+- Matplotlib
+- Pandas
+
 ## Installation
 Clone this repository:
 ```python
